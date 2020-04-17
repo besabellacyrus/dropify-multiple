@@ -53,7 +53,7 @@ Compile assets
 You have to include __[dist/js/dropify-multiple.js](dist/js/dropify-multiple.js)__, __[dist/css/dropify.css](dist/css/dropify.css)__ and __dist/fonts/*__ to your project, then you just have to init the jQuery plugin like that :
 
 ```javascript
-$('.dropify').dropify();
+$('.dropify').DropifyMultiple();
 ```
 
 ## Options
